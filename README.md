@@ -1,6 +1,6 @@
 ## 🌚 Hi there!
 
-I'm Alex, a full-stack developer based in the US! 
+I'm Alex, a full-stack developer based in the US.
 
 I enjoy experimenting with hardware and software to push the edge of what's possible. 
 
@@ -8,21 +8,17 @@ If I were to give an example with one thing that I struggle with the most, it wo
 
 My favorite app is AirBnb because of its amazing use of color with intuitive and clear UI design, paired with Lottie Animations that just feel extraordinary. 
 
---
+## 
 
-🗿 My current projects are centered around AI technologies and how to use AI to solve niche problems.
-
+🗿 My current projects are centered around AI technologies and how to use AI to solve niche problems. </br>
 🚀 My main tech stack: Django, REST API, React, JavaScript and CSS. 
 
---
 
 If you would like to work together please see my contact information below:
 - Email: alexdiaz0923@gmail.com
 - LinkedIn: www.linkedin.com/in/adiazpar
 
---
-
-That's all, thanks!
+### That's all, thanks!
 
 <!--
 **adiazpar/adiazpar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
